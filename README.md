@@ -1,2 +1,5 @@
 # calculator
-cal
+
+###Live Demo:
+
+(https://shivukumara.github.io/calculator/)
